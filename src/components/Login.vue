@@ -91,7 +91,7 @@ export default {
 }
 .avatar_box {
   height: 130px;
-  width: 130px;
+  width: 330px;
   border: 1px solid #eee;
   border-radius: 50%;
   padding: 10px;
